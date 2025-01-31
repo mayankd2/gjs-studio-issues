@@ -1,0 +1,19 @@
+#gjs-sale {
+  width: 100%;
+  height: 100%;
+}
+
+/* grapesjs-tailwind */
+.change-theme-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.change-theme-button:focus {
+  /* background-color: yellow; */
+  outline: none;
+  box-shadow: 0 0 0 4pt #c5c5c5ad;
+}
+/* grapesjs-tailwind */
